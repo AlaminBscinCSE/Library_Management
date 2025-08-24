@@ -1,7 +1,32 @@
 .vercel
 
-//this is node folder
+# Node modules
 node_modules/
 
-//file
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Editor directories and files
+.vscode/
+
+
+# Optional npm cache folder
+.npm/
+
