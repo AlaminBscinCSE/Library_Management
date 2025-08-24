@@ -1,0 +1,7 @@
+.vercel
+
+//this is node folder
+node_modules/
+
+//file
+.env
